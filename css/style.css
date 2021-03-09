@@ -160,7 +160,7 @@ textarea:focus {
 .wd_slider_wrapper{
 	float:left;
 	width:100%;
-	background:url(https://i.ibb.co/Pc4JPdT/Untitled-2-min-1.jpg);
+	background:url(https://i.ibb.co/ZGDHbgz/slider.jpg);
 	position:relative;
     background-attachment: fixed;
     position: relative;
@@ -229,7 +229,7 @@ textarea:focus {
 }
 #snow{
 	background: none;
-	background-image: url('http://www.webstrot.com/html/wedding/home_1/images/header/sn1.png'), url('http://www.webstrot.com/html/wedding/home_1/images/header/sn2.png'), url('http://www.webstrot.com/html/wedding/home_1/images/header/sn3.png');
+	background-image: url('https://i.ibb.co/3N3hq9G/sn1.png'), url('https://i.ibb.co/9YCBnJ6/sn2.png'), url('https://i.ibb.co/QjNnXj9/sn3.png');
 	height: 100%;
 	left: 0;
 	position: absolute;
@@ -435,7 +435,7 @@ textarea:focus {
 .wd_about_wrapper{
 	float:left;
 	width:100%;
-	background-image:url(http://www.webstrot.com/html/wedding/home_1/images/content/about_bg.jpg);
+	background-image:url(https://i.ibb.co/7JQGMJm/about-bg.jpg);
 	background-size:cover;
 	background-position:100% 100%;
 	background-repeat:no-repeat;
